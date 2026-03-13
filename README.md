@@ -1,6 +1,14 @@
 <h1 align="center">
     QChunker: Learning Question-Aware Text Chunking for Domain RAG via Multi-Agent Debate
 </h1>
+<p align="center">
+    <a href="https://arxiv.org/abs/2603.11650">
+        <img alt="arXiv Paper" src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv">
+    </a>
+    <a href="https://opensource.org/license/apache-2-0">
+        <img alt="Apache 2.0 License" src="https://img.shields.io/badge/License-Apache_2.0-4285f4.svg?logo=apache">
+    </a>
+</p>
 
 This study introduces **QChunker**, an innovative text chunking framework based on multi-agent debate. It reshapes the chunking process from a traditional, isolated, and passive preprocessing step into an active and forward-looking process of deep understanding and knowledge reconstruction, aiming to address the performance bottlenecks faced by Retrieval-Augmented Generation (RAG) systems due to semantic fragmentation at the source.
 
