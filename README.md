@@ -8,6 +8,15 @@
     <a href="https://opensource.org/license/apache-2-0">
         <img alt="Apache 2.0 License" src="https://img.shields.io/badge/License-Apache_2.0-4285f4.svg?logo=apache">
     </a>
+    <a href="https://huggingface.co/datasets/Robot2050/QChunker">
+        <img src="https://img.shields.io/badge/Huggingface-Dataset-yellow?style=flat-square&logo=huggingface">
+    </a>
+    <a href="https://huggingface.co/Robot2050/QChunker">
+        <img src="https://img.shields.io/badge/Huggingface-QChunker-yellow?style=flat-square&logo=huggingface">
+    </a>
+    <a href="https://huggingface.co/Robot2050/QChunker-Ref">
+        <img src="https://img.shields.io/badge/Huggingface-QChunker_Ref-yellow?style=flat-square&logo=huggingface">
+    </a>
 </p>
 
 This study introduces **QChunker**, an innovative text chunking framework based on multi-agent debate. It reshapes the chunking process from a traditional, isolated, and passive preprocessing step into an active and forward-looking process of deep understanding and knowledge reconstruction, aiming to address the performance bottlenecks faced by Retrieval-Augmented Generation (RAG) systems due to semantic fragmentation at the source.
